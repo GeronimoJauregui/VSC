@@ -1,2 +1,2 @@
 # VSC
-Ejercicio prácticos para ocupar vsc de manera mas eficiente
+Ejercicios prácticos para ocupar vsc de manera mas eficiente
